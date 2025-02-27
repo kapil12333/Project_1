@@ -7,9 +7,7 @@ welcome! Kapil here!!
 </h1>
 
 <?php
-echo "Hello World! Ashi!!!!! i am adityaa from ducat and also from india 
-saasddafafda
-afafafeaf";
+echo "Hello World!";
 ?>
 
 </body>
